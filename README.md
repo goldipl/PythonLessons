@@ -8,3 +8,5 @@ My steps of learning Python language.
 ## Technologies
 Project was created with:
 * Python
+
+Course from Udemy - Mobilo: Microsoft Certified Trainer
