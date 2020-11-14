@@ -13,4 +13,7 @@ while len(lottoNumbers) <= 5:
 
     lottoNumbers.append(number)
 
-print("Lotto numbers: ", lottoNumbers)
+#konwersja tablicy do str
+stringLottoNumbers = ' '.join(str(e) for e in lottoNumbers)
+
+print("Lotto numbers: ", stringLottoNumbers)
